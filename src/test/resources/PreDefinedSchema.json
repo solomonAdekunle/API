@@ -1,0 +1,59 @@
+{
+    "storeId": "GB_1",
+    "language": "en",
+    "categoryId": "PSF_438811",
+    "groups": [
+        {
+            "dimensions": [
+                "4294965843"
+            ],
+            "searchTerm": "Knipex Cutters",
+            "pageTitle": "Knipex Cutters | RS Components",
+            "heading": "Knipex Cutters",
+            "metaDescription": "This is a test Meta Description for Knipex Cutters",
+            "seoText": "This is a test SEO Text for Knipex Cutters"
+        },
+        {
+            "dimensions": [
+                "4294966852"
+            ],
+            "searchTerm": "CK Cutters",
+            "pageTitle": "CK Cutters | RS Components",
+            "heading": "CK Cutters",
+            "metaDescription": "This is a test Meta Description for CK Cutters",
+            "seoText": "This is a test SEO Text for CK Cutters"
+        },
+        {
+            "dimensions": [
+                "4294966852",
+                "4294966997"
+            ],
+            "searchTerm": "Bahco Cutters",
+            "pageTitle": "Bahco Cutters | RS Components",
+            "heading": "Bahco Cutters",
+            "metaDescription": "This is a test Meta Description for Bahco Cutters",
+            "seoText": "This is a test SEO Text for Bahco Cutters"
+        },
+        {
+            "dimensions": [
+                "4294966348"
+            ],
+            "searchTerm": "Facom Cutters",
+            "pageTitle": "Facom Cutters | RS Components",
+            "heading": "Facom Cutters",
+            "metaDescription": "This is a test Meta Description",
+            "seoText": ""
+        },
+        {
+            "dimensions": [
+                "4293570090"
+            ],
+            "searchTerm": "FUJIYA Cutters",
+            "pageTitle": "FUJIYA Cutters | RS Components",
+            "heading": "FUJIYA Cutters",
+            "metaDescription": "This is a test Meta Description for FUJIYA Cutters",
+            "seoText": "This is a test SEO Text for FUJIYA Cutters"
+        }
+    ]
+}
+
